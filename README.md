@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Dmitry Yrchenya</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<!--
-**dyurchenya/dyurchenya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Professional Summary
+Primary Technology: 2 years of professional experience with JavaScript.
 
-Here are some ideas to get you started:
+Additional Technologies: Practical knowledge of Python, with extensive use of MySQL databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Academic Background: Studied C#, C++, HTML, CSS, and 1C during my college education.
+
+🎓 Education & Certification
+College: College of Business and Law, Minsk
+
+Degree: Computer Programmer Technician
+
+Certification: Personal Data Protection Specialist (2023)
